@@ -751,9 +751,3 @@ vendor/lib64/libmiracast.so|731c11bcbce88813cb42f7a6b00b67df0ca6bbcb
 vendor/lib64/libmmosal.so|e9fdb48163e92b089cea0c397723a8416436c272
 vendor/lib64/libwfdhdcpcp.so|1a3384745b7ec87cda5ff58a43872b1374f6fc9b
 vendor/lib64/vendor.qti.hardware.sigma_miracast@1.0.so|5be9cd005e79619fbbc0c4bad97a388655eda945
-
-# WFD Dependency - from LA.UM.9.6.2.r1-03600-89xx.0
-vendor/lib/libdisplayconfig.qti.so|af86c698dbf1c9b4cdca8cda27550210eb559b3a
-vendor/lib/vendor.display.config@2.0.so|c4320cbe4dfb16dc246af37914deec2381ff7561
-vendor/lib64/libdisplayconfig.qti.so|d5e01a88d524f14dd498b6fc2546130c54841fbb
-vendor/lib64/vendor.display.config@2.0.so|bf4cd1afb96d6f6a7c088e1ddbd40d189754646a
